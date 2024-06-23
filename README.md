@@ -1,7 +1,10 @@
 # ConditionalBreakpointAndTracepoint
 <hr/>
 #Add a Conditional Breakpoint <br/>
-![image](https://github.com/kodpencerem/ConditionalBreakpointAndTracepoint/assets/35402914/240b90e2-9786-452d-9975-fa7613070a34)<br/>
+<p>
+  <img src="https://github.com/kodpencerem/ConditionalBreakpointAndTracepoint/assets/35402914/240b90e2-9786-452d-9975-fa7613070a34" alt=""/>
+</p>
+<br/>
 Set a Breakpoint: Click in the left margin next to the line if (result == 10) to set a breakpoint.<br/>
 Right-Click the Breakpoint: Right-click the red dot that appears.<br/>
 Set Condition: Select “Conditions…” from the context menu.<br/>
