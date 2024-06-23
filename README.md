@@ -40,7 +40,7 @@ By following these steps, you can effectively use conditional breakpoints and tr
 <hr/>
 For more examples and information;<br/>
 1.	<p><a href="https://learn.microsoft.com/en-us/visualstudio/debugger/using-tracepoints?view=vs-2022" target="_blank">Log info with tracepoints - Visual Studio (Windows) | Microsoft Learn</a></p><br/>
-2.	c# - What are tracepoints used for? - Stack Overflow<br/>
+2.	<p><a href="https://stackoverflow.com/questions/23066756/what-are-tracepoints-used-for" target="_blank">c# - What are tracepoints used for? - Stack Overflow</a></p><br/>
 3.	Visual Studio Debugger Tips and Tricks: Tracepoints (mariuszwojcik.com)<br/>
 4.	Visual Studio - How to use conditional breakpoints | makolyte<br/>
 
