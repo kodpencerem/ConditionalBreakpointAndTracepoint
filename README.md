@@ -36,11 +36,10 @@ Specify Message: In the dialog that appears, enter Iteration: {i}, Result: {resu
 Conditional Breakpoint: The breakpoint on if (result == 10) will only be triggered when the result variable equals 10. This helps you focus on specific conditions without stopping at every iteration.<br/>
 Tracepoint: The tracepoint on Console.WriteLine($"Iteration: {i}, Result: {result}"); will print the iteration and result values to the Output window each time it is hit, allowing you to monitor the values without pausing the execution.<br/>
 By following these steps, you can effectively use conditional breakpoints and tracepoints to debug and monitor your application. This example provides a more detailed scenario with a class and methods to illustrate their usage.<br/>
-
 <hr/>
 For more examples and information;<br/>
-1.	<p><a href="https://learn.microsoft.com/en-us/visualstudio/debugger/using-tracepoints?view=vs-2022" target="_blank">Log info with tracepoints - Visual Studio (Windows) | Microsoft Learn</a></p><br/>
-2.	<p><a href="https://stackoverflow.com/questions/23066756/what-are-tracepoints-used-for" target="_blank">c# - What are tracepoints used for? - Stack Overflow</a></p><br/>
+1.	<p><a href="https://learn.microsoft.com/en-us/visualstudio/debugger/using-tracepoints?view=vs-2022" target="_blank">Log info with tracepoints - Visual Studio (Windows) | Microsoft Learn</a></p>
+2.	<p><a href="https://stackoverflow.com/questions/23066756/what-are-tracepoints-used-for" target="_blank">c# - What are tracepoints used for? - Stack Overflow</a></p>
 3.	Visual Studio Debugger Tips and Tricks: Tracepoints (mariuszwojcik.com)<br/>
 4.	Visual Studio - How to use conditional breakpoints | makolyte<br/>
 
